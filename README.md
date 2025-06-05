@@ -5,10 +5,12 @@
   </a>
 </div>
 
-- 🔭 Hoje trabalho como fullstack (Delphi)
-- 🌱 Estudando Python e C#
-- 📫 Contate-me no email: jhonatansilver69@hotmail.com
-- 😄 Pronome: ele/dele
+<p align="center">Olá! Seja bem-vindo ao meu perfil 🙂👨‍💻
+  
+Minha paixão por tecnologia começou cedo, desde os 12 anos estudo informática, começando com manutenção de computadores, programação em PHP e uso de Linux. Também iniciei meus estudos em inglês por meio de cursos, o que ampliou ainda mais minhas possibilidades na área de tecnologia. Esse interesse desde jovem foi o que me impulsionou a seguir carreira e me formar em Sistemas de Informação pela Faculdade Logatti.
+Hoje, com mais de cinco anos de experiência em desenvolvimento de software, especialmente voltado para sistemas de gestão empresarial (ERP), tive a oportunidade de atuar em empresas como a Embalsoft, New Standard Software e Sectra Sistemas. Em cada uma delas, busquei sempre aprender, colaborar e entregar soluções que realmente agreguem valor.
+Tenho sólida experiência com Delphi e integração com bancos de dados como SQL Server, MySQL e PostgreSQL. Entre os projetos mais marcantes, estão a integração com o sistema de pagamentos PIX, a criação de soluções para pesquisas de NPS, o desenvolvimento de relatórios personalizados e recursos para impressão térmica e matricial. Também atuei fortemente na manutenção e otimização de sistemas, focando sempre na melhoria de performance e experiência dos usuários.
+Sou apaixonado por tecnologia e por tudo o que ela pode transformar. Acredito que colaboração, escuta ativa e dedicação são peças-chave para o sucesso de qualquer projeto. Estou sempre aberto a novos aprendizados, conexões e oportunidades para crescer e contribuir.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonatansilver/jhonatansilver/output/github-contribution-grid-snake-dark.svg">
